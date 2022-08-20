@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Albert+Sans:wght@200;600&family=Annie+Use+Your+Telescope&family=Comfortaa:wght@300;400&family=Do+Hyeon&family=Jost:wght@100&family=Montserrat:wght@100&family=Poppins:wght@600&family=Roboto:wght@100&display=swap');
+body {
+    font-family: 'Annie Use Your Telescope', sans-serif;
+    background-color: rgb(255, 219, 174);
+    color:white
+}
+
+::selection{
+    background: rgb(255, 234, 207);
+    color: white;
+}
+
+p{
+    font-size: 20px;
+    padding: none;
+}
